@@ -20,6 +20,7 @@ namespace gitTest1
         private void button1_Click(object sender, EventArgs e)
         {
             string a = "112";
+            string b = "123";
         }
     }
 }
